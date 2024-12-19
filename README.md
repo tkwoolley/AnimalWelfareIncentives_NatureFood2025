@@ -1,5 +1,5 @@
 This folder contains the code and data required to partially replicate the article 
-"A Scopeing Code of (Dis-)Incentives for Animal Welfare-improving Farming Practices"
+"A Scoping Review of (Dis-)Incentives for Animal Welfare-improving Farming Practices"
 by Trevor Woolley, Sharon Pailler, Jon McFadden, Sharon Raszap, Zach Raff, and Kevin Kuruc.
 Code written by Trevor Woolley. For ease of replicability, I did my best to define 
 directory paths as global macros, however, some directories may be harcoded. Be sure to
